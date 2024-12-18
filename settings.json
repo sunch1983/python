@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "C:/Users/natsun/AppData/Local/Programs/Python/Python312/python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.formatting.provider": "black",
+    "python.testing.unittestEnabled": true,
+    "python.testing.pytestEnabled": true,
+    "python.testing.nosetestsEnabled": false,
+    "python.envFile": "${workspaceFolder}/.env"
+}
